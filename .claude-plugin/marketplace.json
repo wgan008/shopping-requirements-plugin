@@ -1,0 +1,18 @@
+{
+  "name": "vera-plugins",
+  "owner": { "name": "Vera Gan" },
+  "metadata": {
+    "description": "Plugins by Vera Gan",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "shopping-requirements",
+      "source": "./plugins/shopping-requirements",
+      "description": "Benchmarked furniture/appliance requirements lists for shopping AI assistants (淘宝问一问 / 京东AI导购).",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": ["shopping", "furniture", "appliances"]
+    }
+  ]
+}
