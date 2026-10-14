@@ -1,0 +1,10 @@
+{
+  "name": "shopping-requirements",
+  "version": "0.1.0",
+  "description": "Turn a big-ticket furniture or appliance purchase into a benchmarked, measurable requirements list (in Chinese) ready to paste into a shopping AI assistant like 淘宝问一问 or 京东AI导购.",
+  "author": { "name": "Vera Gan" },
+  "homepage": "https://github.com/wgan008/shopping-requirements-plugin",
+  "repository": "https://github.com/wgan008/shopping-requirements-plugin",
+  "license": "MIT",
+  "keywords": ["shopping", "furniture", "appliances", "taobao", "jd", "购物", "家电", "家具"]
+}
