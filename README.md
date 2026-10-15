@@ -17,11 +17,18 @@ Built-in reference benchmarks cover: sofa, bed frame, mattress, wardrobe, dining
 
 ## Install
 
-**Claude Code**
+**Claude Code** (type in the Claude Code chat box)
 
 ```
 /plugin marketplace add wgan008/shopping-requirements-plugin
 /plugin install shopping-requirements@vera-plugins
+```
+
+Or from your terminal (shell), using the `claude plugin` command:
+
+```bash
+claude plugin marketplace add wgan008/shopping-requirements-plugin
+claude plugin install shopping-requirements@vera-plugins
 ```
 
 **Claude desktop / Cowork**: download `shopping-requirements.plugin` from the [Releases](https://github.com/wgan008/shopping-requirements-plugin/releases) page and open it, or add this repo as a plugin marketplace.
